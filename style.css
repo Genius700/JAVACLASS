@@ -1,0 +1,50 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: pink;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    background-color: pink;
+}
+
+#a {
+    width: 30%;
+    height: 100%;
+    background-color:aqua;
+    border-color: pink;
+    border: 100px;
+    border-style: double;
+}
+
+#b {
+    width: 30%;
+    height: 100%;
+    background-color:aqua;
+    border-color: pink;
+    border: 100px;
+    border-style: double;
+}
+
+aside{
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    background-color: pink;
+    height: 268px;
+    margin-bottom: 200px;
+    padding-top: 200px;
+}
+
+#ft{
+    display: flex;
+    justify-content: center;
+    background-color: pink;
+    width: 100vw;
+    margin-bottom: 10px;
+}
